@@ -1,0 +1,56 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gitignore
+.idea/workspace.xml
+api-gateway/src/main/resources/static/
+api-gateway/src/main/resources/templates/
+eureka-client/src/main/resources/static/
+eureka-client/src/main/resources/templates/
+eureka-consumer-feign/src/main/resources/static/
+eureka-consumer-feign/src/main/resources/templates/
+eureka-consumer-ribbon-hystrix/src/main/resources/static/
+eureka-consumer-ribbon-hystrix/src/main/resources/templates/
+eureka-consumer-ribbon/src/main/resources/static/
+eureka-consumer-ribbon/src/main/resources/templates/
+eureka-feign-api/src/main/resources/static/
+eureka-feign-api/src/main/resources/templates/
+eureka-feign-consumer/src/main/resources/static/
+eureka-feign-consumer/src/main/resources/templates/
+eureka-feign-provider/src/main/resources/static/
+eureka-feign-provider/src/main/resources/templates/
+eureka-server/src/main/resources/static/
+eureka-server/src/main/resources/templates/
+hystrix-collapser-consumer/src/main/resources/static/
+hystrix-collapser-consumer/src/main/resources/templates/
+hystrix-collapser-provider/src/main/resources/static/
+hystrix-collapser-provider/src/main/resources/templates/
+hystrix-dashboard/src/main/resources/static/
+hystrix-dashboard/src/main/resources/templates/
+turbine-amqp/src/main/resources/static/
+turbine-amqp/src/main/resources/templates/
+turbine/src/main/resources/static/
+turbine/src/main/resources/templates/
