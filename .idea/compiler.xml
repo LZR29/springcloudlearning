@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="api-gateway" />
+        <module name="api-gateway-dynamic-filter" />
+        <module name="api-gateway-dynamic-route" />
+        <module name="config-client" />
         <module name="config-server" />
         <module name="eureka-client" />
         <module name="eureka-consumer-feign" />
@@ -19,9 +22,19 @@
         <module name="hystrix-collapser-consumer" />
         <module name="hystrix-collapser-provider" />
         <module name="hystrix-dashboard" />
+        <module name="rabbitmq-hello" />
         <module name="springcloudlearning" />
+        <module name="stream-consumer-group" />
+        <module name="stream-hello" />
+        <module name="stream-one" />
+        <module name="stream-provider" />
+        <module name="stream-two" />
+        <module name="trace-1" />
+        <module name="trace-2" />
         <module name="turbine" />
         <module name="turbine-amqp" />
+        <module name="zipkin-server" />
+        <module name="zipkin-server-stream" />
       </profile>
     </annotationProcessing>
   </component>
